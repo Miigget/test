@@ -2,4 +2,6 @@
 
 Repo for tutorial purposes
 
-Hello, hello
+Hello, hello!
+
+Have a good day!
